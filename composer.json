@@ -1,0 +1,11 @@
+{
+    "name": "white/hexlet",
+    "description": "test",
+    "authors": [
+        {
+            "name": "andrey-white",
+            "email": "belov_andrey@inbox.ru"
+        }
+    ],
+    "require": {}
+}
